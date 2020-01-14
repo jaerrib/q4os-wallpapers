@@ -1,0 +1,12 @@
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 507.99999 285.75001" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(0,-11.249983)">
+        <rect y="11.249983" width="508" height="285.75"/>
+        <g transform="matrix(.11394115 0 0 .11394115 216.29687 116.41046)">
+            <path class="st2" d="m229.2 357.4h-229.2c12.8 162.3 142.3 291.8 304.6 304.6v-231.3c-36.4-9.2-65.2-37.3-75.4-73.3z" fill="#303f9f"/>
+            <path class="st3" d="m304.6 226.9v-226.9c-161.8 12.8-291 141.5-304.5 303.1h228.3c9.4-37.4 38.8-66.8 76.2-76.2z" fill="#3f51b5"/>
+            <path class="st4" d="m432.1 303.1h229.7c-13.3-161.1-141.8-289.6-302.9-303v227.6c36 10.2 64.1 39 73.2 75.4z" fill="#448aff"/>
+            <rect class="st5" transform="rotate(-45)" x="-67.137878" y="567.68762" width="142.49863" height="260.0975" fill="#ff5722" stroke-width=".9999904"/>
+        </g>
+    </g>
+    <style type="text/css">.st0{display:none;}</style>
+</svg>

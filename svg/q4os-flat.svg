@@ -1,176 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1920"
-   height="1080"
-   viewBox="0 0 507.99999 285.75001"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="q4os-flat.svg"
-   inkscape:version="0.92.1 r15371"
-   inkscape:export-filename="/home/john/wallpaper2.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
-  <defs
-     id="defs2">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4563"
-       x="-0.012001813"
-       width="1.0240036"
-       y="-0.011998187"
-       height="1.0239964">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.37708822"
-         id="feGaussianBlur4565" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.4546875"
-     inkscape:cx="514.42378"
-     inkscape:cy="433.18226"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
-     inkscape:window-maximized="1"
-     showguides="false" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>John Beers</dc:title>
-          </cc:Agent>
-        </dc:creator>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-11.249983)">
-    <rect
-       style="fill:#3272a1;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-       id="rect10"
-       width="508"
-       height="285.75"
-       x="0"
-       y="11.249983"
-       inkscape:export-filename="/home/john/rect10.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <g
-       transform="translate(4.9999999e-6,5.000483)"
-       id="g4534-3"
-       style="fill:#000000;filter:url(#filter4563);opacity:0.2">
-      <path
-         id="path8-3-6"
-         d="m 242.41218,157.13303 h -26.11531 c 1.45845,18.49265 16.21383,33.24802 34.70647,34.70647 v -26.35459 c -4.14745,-1.04826 -7.42896,-4.25 -8.59116,-8.35188 z"
-         class="st2"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.11394115" />
-      <path
-         id="path12-6-7"
-         d="m 251.00334,142.26371 v -25.85325 c -18.43567,1.45845 -33.15687,16.12267 -34.69508,34.53556 h 26.01277 c 1.07105,-4.2614 4.42092,-7.61127 8.68231,-8.68231 z"
-         class="st3"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.11394115" />
-      <path
-         id="path16-9-5"
-         d="m 265.53084,150.94602 h 26.17228 c -1.51541,-18.35592 -16.15685,-32.99735 -34.51277,-34.52417 v 25.93301 c 4.10188,1.1622 7.30363,4.4437 8.34049,8.59116 z"
-         class="st4"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.11394115" />
-      <rect
-         id="rect22-1-3"
-         height="29.635809"
-         width="16.236458"
-         class="st5"
-         transform="rotate(-45)"
-         y="299.9426"
-         x="62.980595"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.11394006" />
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 507.99999 285.75001" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter4563" x="-.012001813" y="-.011998187" width="1.0240036" height="1.0239964" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.37708822"/>
+        </filter>
+    </defs>
+    <g transform="translate(0,-11.249983)">
+        <rect y="11.249983" width="508" height="285.75" fill="#3272a1"/>
+        <g transform="translate(4.9999999e-6,5.000483)" filter="url(#filter4563)" opacity=".2">
+            <g stroke-width=".11394115">
+                <path class="st2" d="m242.41218 157.13303h-26.11531c1.45845 18.49265 16.21383 33.24802 34.70647 34.70647v-26.35459c-4.14745-1.04826-7.42896-4.25-8.59116-8.35188z"/>
+                <path class="st3" d="m251.00334 142.26371v-25.85325c-18.43567 1.45845-33.15687 16.12267-34.69508 34.53556h26.01277c1.07105-4.2614 4.42092-7.61127 8.68231-8.68231z"/>
+                <path class="st4" d="m265.53084 150.94602h26.17228c-1.51541-18.35592-16.15685-32.99735-34.51277-34.52417v25.93301c4.10188 1.1622 7.30363 4.4437 8.34049 8.59116z"/>
+            </g>
+            <rect class="st5" transform="rotate(-45)" x="62.980595" y="299.9426" width="16.236458" height="29.635809" stroke-width=".11394006"/>
+        </g>
+        <g transform="translate(4.9999999e-6,2.9999999e-6)" fill="#fafafa">
+            <g stroke-width=".11394115">
+                <path class="st2" d="m242.41218 157.13303h-26.11531c1.45845 18.49265 16.21383 33.24802 34.70647 34.70647v-26.35459c-4.14745-1.04826-7.42896-4.25-8.59116-8.35188z"/>
+                <path class="st3" d="m251.00334 142.26371v-25.85325c-18.43567 1.45845-33.15687 16.12267-34.69508 34.53556h26.01277c1.07105-4.2614 4.42092-7.61127 8.68231-8.68231z"/>
+                <path class="st4" d="m265.53084 150.94602h26.17228c-1.51541-18.35592-16.15685-32.99735-34.51277-34.52417v25.93301c4.10188 1.1622 7.30363 4.4437 8.34049 8.59116z"/>
+            </g>
+            <rect class="st5" transform="rotate(-45)" x="62.980595" y="299.9426" width="16.236458" height="29.635809" stroke-width=".11394006"/>
+        </g>
     </g>
-    <g
-       id="g4534"
-       transform="translate(4.9999999e-6,2.9999999e-6)">
-      <path
-         id="path8-3"
-         d="m 242.41218,157.13303 h -26.11531 c 1.45845,18.49265 16.21383,33.24802 34.70647,34.70647 v -26.35459 c -4.14745,-1.04826 -7.42896,-4.25 -8.59116,-8.35188 z"
-         class="st2"
-         inkscape:connector-curvature="0"
-         style="fill:#fafafa;fill-opacity:1;stroke-width:0.11394115" />
-      <path
-         id="path12-6"
-         d="m 251.00334,142.26371 v -25.85325 c -18.43567,1.45845 -33.15687,16.12267 -34.69508,34.53556 h 26.01277 c 1.07105,-4.2614 4.42092,-7.61127 8.68231,-8.68231 z"
-         class="st3"
-         inkscape:connector-curvature="0"
-         style="fill:#fafafa;fill-opacity:1;stroke-width:0.11394115" />
-      <path
-         id="path16-9"
-         d="m 265.53084,150.94602 h 26.17228 c -1.51541,-18.35592 -16.15685,-32.99735 -34.51277,-34.52417 v 25.93301 c 4.10188,1.1622 7.30363,4.4437 8.34049,8.59116 z"
-         class="st4"
-         inkscape:connector-curvature="0"
-         style="fill:#fafafa;fill-opacity:1;stroke-width:0.11394115" />
-      <rect
-         id="rect22-1"
-         height="29.635809"
-         width="16.236458"
-         class="st5"
-         transform="rotate(-45)"
-         y="299.9426"
-         x="62.980595"
-         style="fill:#fafafa;fill-opacity:1;stroke-width:0.11394006" />
-    </g>
-  </g>
-  <style
-     id="style4495"
-     type="text/css">
-	.st0{display:none;}
-</style>
+    <style type="text/css">.st0{display:none;}</style>
 </svg>
